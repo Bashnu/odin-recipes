@@ -1,0 +1,30 @@
+.title {
+    text-align: center;
+    background-color: rgb(208, 147, 147);
+    font-size: 36px;
+    
+}
+
+.biggerbetter {
+    font-size: 24px;
+    color: antiquewhite;
+    background-color: rgb(163, 163, 236);
+    
+}
+
+.bold {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+}
+
+.img {
+    height: auto;
+    width: auto;
+}
+
+ul {
+    padding-left: 2rem;
+    font-size: 18px;
+    color: aquamarine;
+    
+}
